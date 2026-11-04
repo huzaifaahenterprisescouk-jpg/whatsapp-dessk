@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-desk",
+  "version": "1.0.0",
+  "description": "WhatsApp Business team inbox with organization routing and Excel order tracking",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
